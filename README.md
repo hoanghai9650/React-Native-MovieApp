@@ -37,13 +37,11 @@ If you can't run by "yarn ios", open XCode and build with it
 ### Demo
 
 ### Image
+<img src="https://i.imgur.com/Sqc72Rq.png" alt="Watch the video" width="300">
+<img src="https://i.imgur.com/kn9A8d5.png" alt="Watch the video" width="300">
+<img src="https://i.imgur.com/kn9K2CL.png" alt="Watch the video" width="300">
 
-(https://i.imgur.com/Sqc72Rq.png)
-(https://i.imgur.com/kn9A8d5.png)
-(https://i.imgur.com/kn9K2CL.png)
 
 ### Video
 
-<video width="320" height="240" controls>
-  <source src="./asset/record.mov" type="video/mp4">
-</video>
+Click [here](https://player.vimeo.com/video/965726523?title=0&amp) to watch the demo video.
