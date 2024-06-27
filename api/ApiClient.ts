@@ -16,7 +16,7 @@ export class MovieApiClient {
     this.client = axios.create({
       baseURL: 'https://api.themoviedb.org/3',
       params: {
-        api_key: '91e2325c7d9808848df80626147a84e2',
+        api_key: 'API_KEY',
       },
     });
   }
