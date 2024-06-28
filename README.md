@@ -1,5 +1,9 @@
 ## Step 1: Installation
 
+Come [here](https://www.themoviedb.org/settings/api) to get API_KEY
+Replace the API_KEY to /api/ApiClient  "api_key"
+
+
 ```bash
 yarn
 ```
